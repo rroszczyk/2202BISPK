@@ -31,3 +31,19 @@
 
 ### 7. Obliczenia w chmurze w oparciu o mechanizmy równoległości
 - Projekt wykorzystujący poznane zagadnienia w praktyce
+
+# Godzinowy rozkład
+
+| Lp | Godziny zajęć | Przerwy       |
+|:--:|---------------|---------------|
+|  1 | 09.00 - 09.45 |               |
+|  2 | 09.45 - 10.30 |               |
+|    |               | 10.30 - 10.45 |
+|  3 | 10.45 - 11.30 |               |
+|  4 | 11.30 - 12.15 |               |
+|    |               | 12.15 - 12.30 |
+|  5 | 12.30 - 13.15 |               |
+|  6 | 13.15 - 14.00 |               |
+|    |               | 14.00 - 14.15 |
+|  7 | 14.15 - 15.00 |               |
+|  8 | 15.00 - 15.45 |               |
