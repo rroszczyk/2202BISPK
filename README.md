@@ -32,10 +32,10 @@
 ### 7. Obliczenia w chmurze w oparciu o mechanizmy równoległości
 - Projekt wykorzystujący poznane zagadnienia w praktyce
 
-# Godzinowy rozkład
+# Godzinowy rozkład zajęć
 
 | Lp | Godziny zajęć | Przerwy       |
-|:--:|---------------|---------------|
+|:--:|:-------------:|:-------------:|
 |  1 | 09.00 - 09.45 |               |
 |  2 | 09.45 - 10.30 |               |
 |    |               | 10.30 - 10.45 |
@@ -47,3 +47,14 @@
 |    |               | 14.00 - 14.15 |
 |  7 | 14.15 - 15.00 |               |
 |  8 | 15.00 - 15.45 |               |
+
+# Tygodniowy plan zajęć
+
+|    Data    |   Dzień   |   Godziny  | Liczba godzin |
+|:----------:|:---------:|:----------:|:-------------:|
+| 27.02.2022 | niedziela | 9.00-15.45 |       8       |
+| 06.03.2022 | niedziela | 9.00-15.45 |       8       |
+| 13.03.2022 | niedziela | 9.00-15.45 |       8       |
+| 20.03.2022 | niedziela | 9.00-15.00 |       7       |
+| 27.03.2022 | niedziela | 9.00-15.00 |       7       |
+| 03.04.2022 | niedziela | 9.00-15.00 |       7       |
