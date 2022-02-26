@@ -1,33 +1,33 @@
 # Programowanie w języku Python
 
 ### 1. Przypomnienie wiadomości po kursie „Python Basic”
- a. Typy wbudowane
- b. Instrukcje warunkowe oraz pętle
- c. Klasy
+- Typy wbudowane
+- Instrukcje warunkowe oraz pętle
+- Klasy
 
 ### 2. Protokoły w języku Python
- a. Property
- b. Iterator
- c. Generator
- d. menadżer kontekstu
+- Property
+- Iterator
+- Generator
+- menadżer kontekstu
 
 ### 3. Różne metody równoległości
- a. Wielowątkowość (Threading, concurrent)
- b. Wieloprocesowość (Multiprocessing, concurrent)
- c. Asynchroniczność (asyncio)
+- Wielowątkowość (Threading, concurrent)
+- Wieloprocesowość (Multiprocessing, concurrent)
+- Asynchroniczność (asyncio)
 
 ### 4. Mechanizmy logowania
- a. Podstawowe logowanie
- b. Logowanie z wielu wątków
- c. Logowanie z wielu procesów
- d. Logowanie z wielu maszyn
+- Podstawowe logowanie
+- Logowanie z wielu wątków
+- Logowanie z wielu procesów
+- Logowanie z wielu maszyn
 
 ### 5. Wybrane wzorce projektowe
- a. Do uzgodnienia
+- Do uzgodnienia
 
 ### 6. Testowanie aplikacji:
- a. TDD (pytest)
- b. BDD (behave)
+- TDD (pytest)
+- BDD (behave)
 
 ### 7. Obliczenia w chmurze w oparciu o mechanizmy równoległości
- a. Projekt wykorzystujący poznane zagadnienia w praktyce
+- Projekt wykorzystujący poznane zagadnienia w praktyce
