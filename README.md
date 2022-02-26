@@ -1,8 +1,8 @@
 # Programowanie w języku Python
 
 ### 1. Przypomnienie wiadomości po kursie „Python Basic”
-- a. Typy wbudowane
-- b. Instrukcje warunkowe oraz pętle
+[] a. Typy wbudowane
+[] b. Instrukcje warunkowe oraz pętle
 - c. Klasy
 
 ### 2. Protokoły w języku Python
