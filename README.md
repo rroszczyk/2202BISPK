@@ -23,15 +23,13 @@
 - Logowanie z wielu wątków
 - Logowanie z wielu procesów
 - Logowanie z wielu maszyn
+- Wybrane wzorce projektowe
 
-### 5. Wybrane wzorce projektowe
-- Do uzgodnienia
-
-### 6. Testowanie aplikacji:
+### 5. Testowanie aplikacji:
 - TDD (pytest)
 - BDD (behave)
 
-### 7. Obliczenia w chmurze w oparciu o mechanizmy równoległości
+### 6. Obliczenia w chmurze w oparciu o mechanizmy równoległości
 - Projekt wykorzystujący poznane zagadnienia w praktyce
 
 # Godzinowy rozkład zajęć
