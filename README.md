@@ -22,7 +22,6 @@
 - Podstawowe logowanie
 - Logowanie z wielu wątków
 - Logowanie z wielu procesów
-- Logowanie z wielu maszyn
 - Wybrane wzorce projektowe
 
 ### 5. Testowanie aplikacji:
