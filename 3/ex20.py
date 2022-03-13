@@ -5,6 +5,7 @@ import time
 semafor = threading.Semaphore(0)
 zdarzenie = threading.Event()
 
+# zamiast zmiennej należy użyć kolejki...
 zmienna = None
 
 def konsument():
